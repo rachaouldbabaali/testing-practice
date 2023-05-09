@@ -1,0 +1,15 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "a few practical tests for JavaScript functions using the Jest library",
+  "main": "StringLength.js",
+  "scripts": {
+    "test": "Jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
